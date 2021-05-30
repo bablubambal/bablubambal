@@ -25,7 +25,7 @@ Indian Programmer
 <a href="https://linkedin.com/in/bablubambal" target="blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/linkedin.svg" alt="bablubambal" height="40" width="40" /></a>&nbsp;
 <a href="https://fb.com/bablukumarbambal" target="blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/facebook.svg" alt="bablukumarbambal" height="40" width="40" /></a>&nbsp;
 <a href="https://instagram.com/bablukumarbambal" target="blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/instagram.svg" alt="bablukumarbambal" height="40" width="40" /></a>&nbsp;
-<a href="https://www.youtube.com/c/bablukumarbamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/youtube.svg" alt="bablukumarbamal" height="40" width="40" /></a>&nbsp;
+<a href="https://www.youtube.com/c/BABLUKUMARBAMBAL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/youtube.svg" alt="bablukumarbamal" height="40" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/bablubambal" target="blank"><img align="center" src="https://raw.githubusercontent.com/bablubambal/bablubambal/main/Hacker%20Rank.png" alt="bablubambal" height="40" width="40" /></a> &nbsp;
 </p>
 
